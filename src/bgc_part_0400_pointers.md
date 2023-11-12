@@ -471,7 +471,7 @@ int *p;
 Can we make that into one line? We can. But where does the `*` go?
 
 The rule is that the `*` goes in front of any variable that is a pointer
-type. That is. the `*` is _not_ part of the `int` in this example. it's
+type. That is, the `*` is _not_ part of the `int` in this example, it's
 a part of variable `p`.
 
 With that in mind, we can write this:
