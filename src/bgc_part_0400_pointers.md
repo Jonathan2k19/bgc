@@ -340,7 +340,7 @@ then copying that onto another piece of paper. You now have _two_
 pointers to that house, and both are equally good at getting you to the
 house itself.
 
-In the case of a function call. one of the copies is stored in a pointer
+In the case of a function call, one of the copies is stored in a pointer
 variable out in the calling scope, and the other is stored in a pointer
 variable that is the parameter of the function.
 
